@@ -1,0 +1,11 @@
+ public class Q5{
+
+    private int sum;
+
+public int x;
+
+    public Q5(){
+      sum = 8;
+      x = 2;
+     y = 4;
+    }

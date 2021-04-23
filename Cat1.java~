@@ -1,0 +1,7 @@
+public class Cat1 extends Animal1{
+  public  String makeSound(){
+    return sound;
+}
+  
+  
+}
